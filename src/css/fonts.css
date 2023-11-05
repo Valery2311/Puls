@@ -23,7 +23,7 @@
     src: local('MuseoModerno Bold'), local('MuseoModerno-Bold'),
         url('../fonts/MuseoModerno-Bold.woff2') format('woff2'),
         url('../fonts/MuseoModerno-Bold.woff') format('woff');
-    font-weight: 700;
+    font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
@@ -33,7 +33,7 @@
     src: local('MuseoModerno Regular'), local('MuseoModerno-Regular'),
         url('../fonts/MuseoModerno-Regular.woff2') format('woff2'),
         url('../fonts/MuseoModerno-Regular.woff') format('woff');
-    font-weight: 400;
+    font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
